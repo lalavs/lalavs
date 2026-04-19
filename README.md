@@ -38,4 +38,4 @@ building things that scale and don't fall apart under real load.
 - 🔍 Open to remote full-time and contract opportunities
 - 🌱 Building [TaskFlow](https://github.com/lalavs/taskflow) —
   a full-stack task manager with AI and drag-and-drop canvas
-- 📬 Reach me: [LinkedIn]([https://linkedin.com/in/your-url]([https://www.linkedin.com/in/lala-ismailova-a9b97137](https://www.linkedin.com/in/lala-ismailova-a9b971378)
+- 📬 Reach me: [LinkedIn]([https://linkedin.com/in/your-url]([https://www.linkedin.com/in/lala-ismailova-a9b97137](https://www.linkedin.com/in/lala-ismailova-a9b971378))
